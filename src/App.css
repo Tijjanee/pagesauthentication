@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  @font-face {
+    font-family: PTSerifItalic;
+    src: url(../public/Fonts/PTSerifItalic.ttf);
+  }
+  @font-face {
+    font-family: PTSerifRegular;
+    src: url(../public/Fonts/PTSerifReguler.ttf);
+  }
+  @font-face {
+    font-family: DMSerifItalic;
+    src: url(../public/Fonts/DMSerifItalic.ttf);
+  }
+  @font-face {
+    font-family: DMSerifRegular;
+    src: url(../public/Fonts/DMSerifRegular.ttf);
+  }
